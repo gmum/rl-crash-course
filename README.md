@@ -1,4 +1,7 @@
 # Crash Course in Reinforcement Learning
+### Damian Leśniak, Aleksandra Nowak, Igor Sieradzki, Maciej Wołczyk
+
+Presented at ML in PL Conference 2019.
 
 Directories contain:
 * `lectures` - lecture slides and useful notes
